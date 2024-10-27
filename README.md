@@ -43,6 +43,6 @@ For the height of the user input TextInput, flex: 1 is used instead of height: '
 
 
 
-<div style="text-align: center; margin-top: 50px">
+<p align="center" style="text-align: center; margin-top: 50px">
    <img src="./assets/gif/anim.gif" width="320" alt="Demo">
-</div>
+</p>
